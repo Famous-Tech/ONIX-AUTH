@@ -1,4 +1,4 @@
-// server.js - Point d'entrée de l'application
+// Point d'entrée de l'application
 const express = require('express');
 const cors = require('cors');
 const { initDB } = require('./config');
